@@ -10,3 +10,7 @@
 
 [00 - Libft](https://github.com/luciana-pereira/42cursus/tree/master/libft)<br/>
 [01 - Get_Next_Line](https://github.com/luciana-pereira/42cursus/tree/master/get_nest_line)
+
+- E o mais importante 👇☺️
+
+***Não esqueça de deixar sua** ⭐
