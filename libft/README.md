@@ -2,13 +2,13 @@
 
 <div align="center" style="color: red;">
   <img  src="https://user-images.githubusercontent.com/37550557/165000344-6e6d7d11-346c-4502-b443-968606bf9dd7.png" />
-  <h3><b>Aqui encontra todo o material (externo) utilizado para a realização do Libft.</b></h3>
+  <h3><b>Aqui você encontra todo o material (externo) utilizado para a realização do Libft.</b></h3>
 </div>
 
 ## :page_facing_up: Índice
 
 * [00. Testes](#00-testes)
-* [01. Links úteis](#00-links-úteis)
+* [01. Links úteis](#01-links-úteis)
 
 
 #### 00. Testes
