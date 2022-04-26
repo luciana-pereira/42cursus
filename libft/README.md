@@ -12,8 +12,11 @@
 
 
 #### 00. Testes
-Uma das opções para realização de testes unitário em suas funções e por meio do link **[Libft Unit Tests](https://github.com/alelievr/libft-unit-test)**. Execute conforme orientado no tutorial, assim poderá identificar qual das funções retorna erro.
+Esta são alguma das opções para realização de testes. Execute conforme orientado no tutorial, assim poderá identificar qual das funções retorna erro:
+- **[Libft Unit Tests](https://github.com/alelievr/libft-unit-tes)** 
 
+- **[Ska42](https://github.com/ska42)**
 
+- **[Tripouille | LibftTester](https://www.kernel.org/doc/man-pages)**
 #### 01. Links úteis
 - **[Kernel | man pages](https://www.kernel.org/doc/man-pages):** Neste link podemos ver a descrição de cada uma das funções para poder entender o que é retornado, utilizar ou replicar o comportamento da função original em nossa biblioteca.
