@@ -12,9 +12,15 @@
 
 
 #### 00. Testes
-Esta são alguma das opções para realização de testes. Execute conforme orientado no tutorial, assim poderá identificar qual das funções retorna erro:
+Esta são alguma das opções para realização de testes. Execute conforme orientado no tutorial, assim poderá identificar qual das funções consta algum erro:
 - **[Libft Unit Tests](https://github.com/alelievr/libft-unit-tes)**</br>
-**Configuração:** Siga as orientações do arquivo e certifique se que no arquivo **Makefile** consta da seguinte forma: **LIBFTDIR	=	../libft**
+**Configuração:** Siga as orientações do arquivo e certifique se que no arquivo **Makefile** consta da seguinte forma: **LIBFTDIR	=	../libft** e o conteudo abaixo no seu Makefile somente para testar:
+
+```
+so:
+	$(CC) -fPIC $(FLAGS) $(SRC) $(SRC_BONUS)
+	gcc -shared -o libft.so $(OBJS) $(OBJS_BONUS)
+```
 
 - **[Ska42](https://github.com/ska42)**
 
