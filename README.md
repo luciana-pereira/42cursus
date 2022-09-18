@@ -9,7 +9,7 @@
 <strong style="color: red; opacity: 0.80;">Índice</strong>
 
 [00 - Libft](https://github.com/luciana-pereira/42cursus/tree/master/libft)<br/>
-[01 - Get_Next_Line](https://github.com/luciana-pereira/42cursus/tree/master/get_nest_line)
+[01 - Get_Next_Line](https://github.com/luciana-pereira/42cursus/blob/master/get-next-line)<br/>
 
 - E o mais importante 👇☺️
 
