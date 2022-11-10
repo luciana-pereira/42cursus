@@ -10,6 +10,8 @@
 
 [00 - Libft](https://github.com/luciana-pereira/42cursus/tree/master/libft)<br/>
 [01 - Get_Next_Line](https://github.com/luciana-pereira/42cursus/blob/master/get-next-line)<br/>
+[02 - Born2beRoot](https://github.com/luciana-pereira/born2beroot/blob/master/README.md)<br/> **em finalização**
+[03 - So_Long](https://github.com/luciana-pereira/so_long)<br/> **sendo realizado**
 
 - E o mais importante 👇☺️
 
