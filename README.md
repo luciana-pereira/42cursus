@@ -12,7 +12,8 @@
 [01 - Get_Next_Line](https://github.com/luciana-pereira/42cursus/blob/master/get-next-line)<br/>
 [02 - Ft_Printf](https://github.com/luciana-pereira/ft_printf)<br/> 
 [03 - Born2beRoot](https://github.com/luciana-pereira/born2beroot/blob/master/README.md)<br/> 
-[04 - So_Long](https://github.com/luciana-pereira/so_long) | **sendo realizado***<br/>
+[04 - So_Long](https://github.com/luciana-pereira/so_long)<br/>
+[05 - Minitalk](https://github.com/luciana-pereira/minitalk) | **sendo realizado***<br/>
 
 - E o mais importante 👇☺️
 
