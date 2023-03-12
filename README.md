@@ -14,6 +14,7 @@
 [03 - Born2beRoot](https://github.com/luciana-pereira/born2beroot/blob/master/README.md)<br/> 
 [04 - So_Long](https://github.com/luciana-pereira/so_long)<br/>
 [05 - Minitalk](https://github.com/luciana-pereira/minitalk) | **sendo realizado***<br/>
+[06 - Push_Swap](https://github.com/luciana-pereira/push_swapp) | **sendo realizado***<br/>
 
 - E o mais importante 👇☺️
 
