@@ -13,8 +13,10 @@
 [02 - Ft_Printf](https://github.com/luciana-pereira/ft_printf)<br/> 
 [03 - Born2beRoot](https://github.com/luciana-pereira/born2beroot/blob/master/README.md)<br/> 
 [04 - So_Long](https://github.com/luciana-pereira/so_long)<br/>
-[05 - Minitalk](https://github.com/luciana-pereira/minitalk) | **sendo realizado***<br/>
+[05 - Minitalk](https://github.com/luciana-pereira/minitalk)<br/>
 [06 - Push_Swap](https://github.com/luciana-pereira/push_swap) | **sendo realizado***<br/>
+[07 - Minishell](https://github.com/luciana-pereira/minishell) | **sendo realizado***<br/>
+[08 - Philosophers](https://github.com/luciana-pereira/philosophers) | **sendo realizado***<br/>
 
 - E o mais importante 👇☺️
 
