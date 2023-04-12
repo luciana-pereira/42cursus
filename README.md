@@ -16,7 +16,7 @@
 [05 - Minitalk](https://github.com/luciana-pereira/minitalk)<br/>
 [06 - Push_Swap](https://github.com/luciana-pereira/push_swap) | **sendo realizado***<br/>
 [07 - Minishell](https://github.com/luciana-pereira/minishell) | **sendo realizado***<br/>
-[08 - Philosophers](https://github.com/luciana-pereira/philosophers) | **sendo realizado***<br/>
+[08 - Philosophers](https://github.com/luciana-pereira/philosophers) 
 
 - E o mais importante 👇☺️
 
